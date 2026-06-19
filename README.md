@@ -1,1 +1,0 @@
-# soccerfans-miniapp
